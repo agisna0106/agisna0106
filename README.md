@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi i'm Agisna 👋
 
+💡Activity : 
+I'm a 3rd-year informatics engineering students at UNIVERSITAS SURYAKANCANA
 <!--
 **agisna0106/agisna0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
