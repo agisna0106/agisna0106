@@ -40,8 +40,12 @@ C#
 🔹 Capston Project from Machine Learning
 🔹 E-Commerce with Laravel
 
-📊 GitHub Stats
-[![GitHub Stats](https://vercel.app)](https://github.com/agisna0106/github-readme-stats)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agisna0106&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agisna0106&layout=compact&theme=tokyonight" />
+</p>
 🔥 GitHub Streak
 🎯 Goals
 
