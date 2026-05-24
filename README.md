@@ -6,54 +6,31 @@
 🎮 Currently learning Unity, Laravel, and modern web technologies
 🌱 Always exploring new technologies and improving my programming skills
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 💻 Programming Languages
-C++	
-<p align="center">
+### <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,php,java,dart,python" />
 </p>
 C#	
-PHP	
-Java	
-Dart	
-Python
 
-🌐 Web Development
-HTML → struktur website
-CSS → desain/tampilan
-JavaScript → interaksi website
-PHP Native → backend
-Laravel → framework PHP
-Bootstrap/Tailwind → UI framework
-MySQL → database
-Git/GitHub → version control
-VS Code → code editor
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,mysql" />
+</p>
 
-📱 Mobile Development
-Flutter → framework mobile app
-Dart → bahasa Flutter
-Android Studio → IDE Android
-Firebase → backend mobile
-Java/Kotlin → native Android development
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,visualstudio,git,github" />
+</p>
 
-🎮 Game Development
-🎮 2D & 3D Game Development
-🕹️ Gameplay Programming
-🎨 UI Game Design
-🌊 Environment & Level Design
-🔊 Audio Integration
-⚡ Game Optimization
-
-C# → bahasa scripting Unity
-Blender → membuat/edit asset 3D
-Ibis Paint -> membuat asset 2D
-Visual Studio → coding editor
-
+<p align="center">
+  🎮 2D & 3D Game Development • Gameplay Programming • UI Design
+</p>
 
 🛢️ Database
-MYSQL
-POSTGRE SQL
-FIREBASE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,pgsql,firebase" />
+</p>
 
 📌 Current Projects
 🔹 School Savings Information System
