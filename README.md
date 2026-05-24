@@ -1,18 +1,76 @@
 ## Hi i'm Agisna 👋
 
-💡Activity : 
-I'm a 3rd-year informatics engineering students at UNIVERSITAS SURYAKANCANA
-<!--
-**agisna0106/agisna0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+🎓 I'm a 3rd-year Informatics Engineering student at Universitas Suryakancana
+💻 Interested in Game Development, Web Development, and UI Design
+🎮 Currently learning Unity, Laravel, and modern web technologies
+🌱 Always exploring new technologies and improving my programming skills
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+💻 Programming Languages
+C++	
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,php,java,dart,python" />
+</p>
+C#	
+PHP	
+Java	
+Dart	
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Development
+HTML → struktur website
+CSS → desain/tampilan
+JavaScript → interaksi website
+PHP Native → backend
+Laravel → framework PHP
+Bootstrap/Tailwind → UI framework
+MySQL → database
+Git/GitHub → version control
+VS Code → code editor
+
+📱 Mobile Development
+Flutter → framework mobile app
+Dart → bahasa Flutter
+Android Studio → IDE Android
+Firebase → backend mobile
+Java/Kotlin → native Android development
+
+🎮 Game Development
+🎮 2D & 3D Game Development
+🕹️ Gameplay Programming
+🎨 UI Game Design
+🌊 Environment & Level Design
+🔊 Audio Integration
+⚡ Game Optimization
+
+C# → bahasa scripting Unity
+Blender → membuat/edit asset 3D
+Ibis Paint -> membuat asset 2D
+Visual Studio → coding editor
+
+
+🛢️ Database
+MYSQL
+POSTGRE SQL
+FIREBASE
+
+📌 Current Projects
+🔹 School Savings Information System
+🔹 Cooking Game in Unity
+🔹 Fish Migration Adventure Game
+🔹 Personal Portfolio Website
+🔹 Capston Project from Machine Learning
+🔹 E-Commerce with Laravel
+
+📊 GitHub Stats
+[![GitHub Stats](https://vercel.app)](https://github.com/agisna0106/github-readme-stats)
+🔥 GitHub Streak
+🎯 Goals
+
+✅ Become a Professional Software Engineer
+✅ Publish Games on Steam / Mobile
+✅ Master Fullstack Development
+✅ Build Useful Applications for Many People
+
+📫 Connect With Me
